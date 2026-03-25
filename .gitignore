@@ -1,0 +1,12 @@
+*.pdf
+
+*.csv
+*.xlsx
+*.json
+/data/
+
+__pycache__/
+.ipynb_checkpoints/
+.env
+
+Thumbs.db
